@@ -17,9 +17,18 @@
         "./": "amol"
     }'
     ></script>
+
+    <script>
+      sap.ui.getCore().attachInit(function () {
+        let oLabel = new sap.m.Label("idlabel", {
+          text: "Hello World",
+        });
+
+        oLabel.placeAt("content");
+      });
+    </script>
   </head>
   <body class="sapUiBody" role="application">
     <div id="content"></div>
-    <script src="index.js"></script>
   </body>
 </html>
