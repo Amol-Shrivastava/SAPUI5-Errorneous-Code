@@ -17,9 +17,25 @@
         "./": "amol"
     }'
     ></script>
+    <script>
+      let app = new sap.m.App({ initialPage: "idMasterPage" });
+      let mPage = sap.ui.view({
+        id: "idMasterPage",
+        viewName: "amol.view.firstView",
+        type: sap.ui.core.mvc.ViewType.JS,
+      });
+      let dPage = sap.ui.view({
+        id: "idDetailPage",
+        viewName: "amol.view.detailView",
+        type: sap.ui.core.mvc.ViewType.JS,
+      });
+
+      app.addMasterPage(mPage);
+      app.addDetailPage(dPage);
+      app.placeAt(content);
+    </script>
   </head>
   <body class="sapUiBody" role="application">
     <div id="content"></div>
-    <script src="index.js"></script>
   </body>
 </html>

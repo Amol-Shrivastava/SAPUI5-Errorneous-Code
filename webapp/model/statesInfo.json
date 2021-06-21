@@ -1,0 +1,987 @@
+{
+    "statesDetails": [
+        {
+            "state": "Andhra Pradesh",
+            "capital": "Amaravati",
+            "population": "49,506,799",
+            "lang": "Telugu",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Arunachal Pradesh",
+            "capital": "Itanagar",
+            "population": "1,383,727",
+            "lang": "English",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Assam",
+            "capital": "Dispur",
+            "population": "31,205,576",
+            "lang": "Assamese",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Bihar",
+            "capital": "Patna",
+            "population": "104,099,452",
+            "lang": "Hindi",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Chhattisgarh",
+            "capital": "Nava Raipur",
+            "population": "25,545,198",
+            "lang":"Hindi",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Goa",
+            "capital": "Panaji",
+            "population": "1,458,545",
+            "lang": "Konkani",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Gujarat",
+            "capital": "Gandhinagar",
+            "lang": "Gujarati",
+            "population": "60,439,692",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Haryana",
+            "capital": "Chandigarh",
+            "lang": "Hindi",
+            "population": "25,351,462",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Himachal Pradesh",
+            "capital": "Shimla (Summer) Dharamshala (Winter)",
+            "population": "6,864,602",
+            "lang": "Hindi",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Jharkhand",
+            "capital": "Ranchi",
+            "population": "32,988,134",
+            "lang": "Hindi",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Karnataka",
+            "capital": "Bengaluru",
+            "population": "61,095,297",
+            "lang": "Kannada",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Kerala",
+            "capital": "Thiruvananthapuram",
+            "population": "33,406,061",
+            "lang": "Malayalam",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Madhya Pradesh",
+            "capital": "Bhopal",
+            "population": "72,626,809",
+            "lang": "Hindi",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Maharashtra",
+            "capital": "Mumbai (Summer) Nagpur (Winter)",
+            "population": "112,374,333",
+            "lang": "Marathi",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Manipur",
+            "capital": "Imphal",
+            "population": "2,855,794",
+            "lang": "Meitei",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Meghalaya",
+            "capital": "Shillong",
+            "population": "2,966,889",
+            "lang": "English",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Mizoram",
+            "capital": "Aizawl",
+            "population": "1,097,206",
+            "lang": "English, Hindi, Mizo",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Nagaland",
+            "capital": "Kohima",
+            "population": "1,978,502",
+            "lang": "English",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+
+        {
+            "state": "Odisha",
+            "capital": "Bhubaneswara",
+            "population": "41,974,218",
+            "lang": "Odia",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Punjab",
+            "capital": "Chandigarh",
+            "population": "27,743,338",
+            "lang": "Punjabi",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Rajasthan",
+            "capital": "Jaipur",
+            "population": "68,548,437",
+            "lang": "Hindi",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Sikkim",
+            "capital": "Gangtok",
+            "population": "610,577",
+            "lang": "English, Nepali",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Tamil Nadu",
+            "capital": "Chennai",
+            "population": "72,147,030",
+            "lang": "Tamil",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Telangana",
+            "capital": "Hyderabad",
+            "population": "35,193,978",
+            "lang": "Telugu",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },{
+            "state": "Tripura",
+            "capital": "Agartala",
+            "population": "3,673,917",
+            "lang": "Bengali, English, Kokborok",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+
+        {
+            "state": "Uttar Pradesh",
+            "capital": "Lucknow",
+            "population": "199,812,341",
+            "lang": "Hindi",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "Uttarakhand",
+            "capital": "Gairsain (Summer) Dehradun (Winter)",
+            "population": "10,086,292",
+            "lang": "Hindi",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        },
+        {
+            "state": "West Bengal",
+            "capital": "Kolkata",
+            "population": "91,276,115",
+            "lang": "Bengali, Nepali",
+            "constituencies": 80, 
+            "politicalParties": [
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                },
+                {
+                    "name": "BJP",
+                    "seats": 45,
+                    "img": ""
+                }
+
+            ]
+        }
+
+
+    ]
+}
